@@ -1,1 +1,1 @@
-print("hello ramya")
+a = int(input("Enter a "))
